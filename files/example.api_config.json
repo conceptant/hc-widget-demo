@@ -1,0 +1,10 @@
+{
+  "CONSTANTS": {
+    "apiUrl": "https://widget-manager-backend.conceptant.com",
+    "hostUrl": "https://widget-manager.conceptant.com/#/",
+    "captchaDisabled": false,
+    "debug": true,
+    "reCaptchaKey": "<recaptcha key>",
+    "googleApiKey": "<api key>"
+  }
+}
